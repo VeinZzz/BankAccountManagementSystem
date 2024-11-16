@@ -53,8 +53,6 @@
             </constraints>
             <properties>
               <background color="-4160174"/>
-              <editable value="true"/>
-              <enabled value="true"/>
             </properties>
           </component>
           <component id="e1109" class="javax.swing.JLabel" binding="contactLabel">

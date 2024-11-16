@@ -1,0 +1,21 @@
+package main;
+
+import main.ui.LogIn;
+
+import javax.swing.*;
+
+public class Main {
+    public static void main(String[] args) {
+        // Set the Swing look and feel to make the UI more modern (optional)
+        try {
+            UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
+        } catch (Exception e) {
+            System.err.println("Failed to set look and feel.");
+        }
+
+        // Launch the LogIn form on the Event Dispatch Thread (EDT)
+        SwingUtilities.invokeLater(() -> {
+            new LogIn().setVisible(true);
+        });
+    }
+}

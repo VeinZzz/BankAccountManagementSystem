@@ -9,7 +9,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BankAccountManagementSystem.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/jcalendar-1.4.zip" afterDir="false" />
@@ -350,7 +349,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Keith/IdeaProjects/BankAccountManagementSystem/lib/jcalendar-1.4/lib/jcalendar-1.4.jar",
+    "last_opened_file_path": "C:/Users/Keith/IdeaProjects/BankAccountManagementSystem",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -380,7 +379,9 @@
       <option name="presentableId" value="Default" />
       <updated>1731670904531</updated>
       <workItem from="1731670905426" duration="2159000" />
-      <workItem from="1731673079407" duration="17772000" />
+      <workItem from="1731673079407" duration="21310000" />
+      <workItem from="1731721020830" duration="14000" />
+      <workItem from="1731725375887" duration="422000" />
     </task>
     <servers />
   </component>
