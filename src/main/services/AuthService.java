@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class AuthService {
 
-    private static final String USERS_FILE_PATH = "src/data/users.txt";
+    private static final String USERS_FILE_PATH = "BankAccountManagementSystem-main/src/data/users.txt";
 
     // Method to authenticate user by username and password
     public Account authenticate(String inputUsername, String inputPassword) {

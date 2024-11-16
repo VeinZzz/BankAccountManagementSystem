@@ -39,7 +39,7 @@ public class AccountDetails extends JFrame {
 
     private Account account;
 
-    private static final String USERS_FILE_PATH = "src/data/users.txt";
+    private static final String USERS_FILE_PATH = "BankAccountManagementSystem-main/src/data/users.txt";
 
     public AccountDetails(Account account) {
         this.account = account;

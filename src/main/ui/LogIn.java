@@ -17,7 +17,7 @@ public class LogIn extends JFrame {
     private JPanel infoFields; // Declare the field to match the form binding
     private JPanel btnPanel;
     private JLabel logInLabel;
-    private static final String USERS_FILE_PATH = "src/data/users.txt";
+    private static final String USERS_FILE_PATH = "BankAccountManagementSystem-main/src/data/users.txt";
 
     public LogIn() {
         setTitle("Log In - Bank Account Management System");

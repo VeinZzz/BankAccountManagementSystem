@@ -38,7 +38,7 @@ public class SignUp extends JFrame {
     private JLabel messageLabel;
 
     private JDateChooser birthField; // Actual JDateChooser component
-    private static final String USERS_FILE_PATH = "src/data/users.txt";
+    private static final String USERS_FILE_PATH = "BankAccountManagementSystem-main/src/data/users.txt";
 
     public SignUp() {
         setTitle("Sign Up - Bank Account Management System");
